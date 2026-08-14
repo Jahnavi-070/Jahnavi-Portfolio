@@ -92,11 +92,11 @@ I am particularly interested in combining **programming, web technologies, syste
 
 ## 📫 Connect With Me
 
-🔗 **LinkedIn:** Coming soon
+🔗 **LinkedIn:https://www.linkedin.com/in/jahnavi-reddy-dendi-884a23328/**
 
 🌐 **Portfolio:** Coming soon
 
-📧 **Email:** Coming soon
+📧 **Email:jahnavireddydendi@gmail.com**
 
 📍 **Hyderabad, India**
 
