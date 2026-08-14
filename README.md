@@ -10,7 +10,7 @@ Currently, I am strengthening my programming and software development foundation
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech CSE student at **Shreyas Institute of Technology and Management**
+* 🎓 B.Tech CSE student at **Sreyas Institute of Technology and Management**
 * 💻 Aspiring **Software Engineer**
 * 🌍 Based in **Hyderabad, India**
 * 🚀 Interested in building real-world problem-solving systems
