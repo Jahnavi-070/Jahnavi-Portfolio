@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jahnavi Reddy
+# Hi 👋, I'm Dendi Jahnavi
 
 ### B.Tech CSE Student | Aspiring Software Engineer | Python & Java Developer
 
