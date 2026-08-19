@@ -21,11 +21,11 @@ Currently, I am strengthening my programming and software development foundation
 
 ### Programming Languages
 
-Python • C • C++ • JavaScript
+Python • C • C++ • Java
 
 ### Web Technologies
 
-HTML • CSS • JavaScript
+HTML • CSS 
 
 ### Core Areas
 
@@ -41,39 +41,6 @@ Git • GitHub • VS Code • Cloud Technologies
 
 ## 🚀 Featured Projects
 
-### 🚗 GPS-Based Speed Control System
-
-A smart system designed to dynamically regulate vehicle speed based on location-specific speed limits.
-
-The system focuses on areas such as:
-
-* 🏫 School Zones
-* 🏥 Hospital Zones
-* 🚦 Location-Based Speed Limits
-* 📍 GPS-Based Monitoring
-* ⚡ Dynamic Speed Regulation
-
-The goal is to improve road safety by automatically adapting vehicle speed according to the surrounding environment.
-
-**Technologies:** Python / Web Technologies / System Concepts
-
----
-
-### 🚑 Smart Emergency Ambulance–Hospital Coordination System
-
-A web-based system designed to improve emergency response time by coordinating ambulances with hospitals.
-
-Key concepts include:
-
-* 🚑 Ambulance Coordination
-* 🏥 Hospital Availability Management
-* ⏱️ ETA Simulation
-* 🗺️ Emergency Route Coordination
-* ⚡ Faster Emergency Response
-
-The goal is to improve communication and coordination between emergency vehicles and hospitals during critical situations.
-
-**Technologies:** Web Technologies / System Design / JavaScript
 
 ## 🌱 Currently Working On
 
