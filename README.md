@@ -1,75 +1,67 @@
 # Hi 👋, I'm Jahnavi Reddy
 
-### CSE Student | Aspiring Software Engineer | Building Real-World Technical Solutions
+### B.Tech CSE Student | Aspiring Software Engineer | Python & Java Developer
 
-I am a Computer Science and Engineering student with a strong interest in building practical, real-world problem-solving projects.
+I'm a Computer Science and Engineering student passionate about building practical software solutions and strengthening my problem-solving and programming skills.
 
-I focus on creating system-based solutions using **web technologies, system concepts, and emerging technologies**. I enjoy converting practical problems into **simple, scalable, and meaningful technical solutions**.
-
-Currently, I am strengthening my programming and software development foundations, building impactful projects, and preparing for **software engineering internship opportunities**.
+I enjoy developing projects that combine programming fundamentals, web technologies, and real-world problem solving. I'm currently focused on improving my software development skills and preparing for software engineering opportunities.
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech CSE student at **Sreyas Institute of Technology and Management**
-* 💻 Aspiring **Software Engineer**
-* 🌍 Based in **Hyderabad, India**
-* 🚀 Interested in building real-world problem-solving systems
-* 🌱 Currently learning **JavaScript** and strengthening software development fundamentals
-* 🎯 Preparing for **Software Engineering Internship Roles**
+* 🎓 B.Tech Computer Science and Engineering student
+* 💻 Interested in Software Development and Programming
+* 🐍 Currently strengthening my Python skills
+* ☕ Learning and practicing Java
+* 🌐 Exploring Web Development
+* 🧠 Improving Data Structures & Algorithms
+* 🚀 Building practical projects to gain hands-on experience
+* 🎯 Preparing for Software Engineering Internship opportunities
 
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
 
-Python • C • C++ • Java
+`Python` `Java` `C` `C++`
 
 ### Web Technologies
 
-HTML • CSS 
+`HTML` `CSS` `JavaScript`
 
-### Core Areas
+### Core Concepts
 
-* AI Fundamentals
-* System Design
-* Web Development
-* Problem Solving
-* System-Based Solutions
+`Data Structures & Algorithms` `Object-Oriented Programming` `DBMS` `Operating Systems`
 
-### Tools & Platforms
+### Tools
 
-Git • GitHub • VS Code • Cloud Technologies
+`Git` `GitHub` `VS Code`
 
 ## 🚀 Featured Projects
 
+### 💰 Smart Expense Tracker
 
-## 🌱 Currently Working On
+A web-based expense tracking project designed to help users record, organize, and analyze their expenses.
 
-* Strengthening programming fundamentals
-* Learning JavaScript
-* Improving web development skills
-* Exploring system design concepts
-* Building impactful real-world projects
-* Preparing for software engineering internships
+**Technologies:** Python, HTML, CSS, JavaScript
+
+
+## 📚 Currently Learning
+
+* Python Development
+* Java
+* Data Structures & Algorithms
+* Web Development
+* Git & GitHub
+* Software Engineering Fundamentals
 
 ## 🎯 Career Goal
 
-My goal is to become a **Software Engineer** and contribute to building scalable technology solutions that solve meaningful real-world problems.
-
-I am particularly interested in combining **programming, web technologies, system concepts, and emerging technologies** to create practical and impactful systems.
+To become a skilled Software Engineer by continuously improving my programming, problem-solving, and software development abilities while building meaningful projects.
 
 ## 📫 Connect With Me
 
-🔗 **LinkedIn:https://www.linkedin.com/in/jahnavi-reddy-dendi-884a23328/**
-
-🌐 **Portfolio:** Coming soon
-
-📧 **Email:jahnavireddydendi@gmail.com**
-
-📍 **Hyderabad, India**
+* 💼 LinkedIn: https://www.linkedin.com/in/jahnavi-reddy-dendi-884a23328/
+* 🐙 GitHub: You're already here!
 
 ---
 
-### 💡 Philosophy
-
-> "Technology becomes meaningful when it solves real-world problems."
-
+⭐ Thanks for visiting my profile!
